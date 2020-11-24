@@ -1,4 +1,4 @@
-Basic cli application in golang making alls to Microsoft's msgraph API.
+Basic cli application in golang making calls to Microsoft's msgraph API.
 
 Can list the following resource
 
